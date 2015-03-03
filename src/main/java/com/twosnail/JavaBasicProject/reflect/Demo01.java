@@ -17,7 +17,7 @@ public class Demo01 {
 }
 
 
-//添加一句：所有类的对象其实都是Class的实例。
+//所有类的对象其实都是Class的实例。
 class Demo{
     
 }
