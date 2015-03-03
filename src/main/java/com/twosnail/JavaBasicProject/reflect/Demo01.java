@@ -11,13 +11,12 @@ public class Demo01 {
 
 	public static void main(String[] args) {
 		 Demo demo=new Demo();
+		//所有类的对象其实都是Class的实例。
 	     System.out.println(demo.getClass().getName());
     }
 	
 }
 
-
-//所有类的对象其实都是Class的实例。
 class Demo{
     
 }
